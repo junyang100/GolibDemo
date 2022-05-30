@@ -5,3 +5,7 @@ import "fmt"
 func PrintHello() {
 	fmt.Println("printHello")
 }
+
+func GetStr() string {
+	return "this is test"
+}
