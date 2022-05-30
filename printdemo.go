@@ -9,3 +9,7 @@ func PrintHello() {
 func GetStr() string {
 	return "this is test"
 }
+
+func GetName() string {
+	return "i am tom"
+}
