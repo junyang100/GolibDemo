@@ -3,7 +3,7 @@ package function
 import "fmt"
 
 func PrintHello() {
-	fmt.Println("printHello 444")
+	fmt.Println("printHello 555")
 }
 
 func GetStr() string {
