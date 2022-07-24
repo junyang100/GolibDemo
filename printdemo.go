@@ -7,5 +7,5 @@ func PrintHello() {
 }
 
 func GetStr() string {
-	return "this is test"
+	return "this is test--444"
 }
